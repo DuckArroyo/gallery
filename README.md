@@ -15,7 +15,7 @@ Creating a portfolio like photo library to deplay images.
 
 [Github Pages]()
 
-[Github Repository]()
+[Github Repository](https://github.com/DuckArroyo/gallery)
 
 ~~[Heroku]()~~
 
