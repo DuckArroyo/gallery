@@ -13,7 +13,7 @@ Creating a portfolio like photo library to deplay images.
 
 ## Links
 
-[Github Pages]()
+[Github Pages](https://duckarroyo.github.io/gallery)
 
 [Github Repository](https://github.com/DuckArroyo/gallery)
 
