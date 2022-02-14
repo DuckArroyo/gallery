@@ -21,7 +21,7 @@ Creating a portfolio like photo library to deplay images.
 
 ## Required installations for code duplication
 ```
-npx - 
+npx - npx create-react-app mygallery
 
 npm - npm install
 
